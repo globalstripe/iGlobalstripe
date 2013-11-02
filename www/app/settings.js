@@ -6,7 +6,6 @@ drupalgap.settings = {};
  ***************/
  
 // Site Path
-//drupalgap.settings.site_path = 'http://www.globalstripe.com'; // e.g. http://www.example.com
 drupalgap.settings.site_path = 'http://casablanca.metastripe.com'; // e.g. http://www.example.com
 
 // Base Path
